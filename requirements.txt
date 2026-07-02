@@ -1,0 +1,5 @@
+pytest
+requests
+locust==2.29.1
+bandit
+urllib3<2
